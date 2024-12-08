@@ -1,1 +1,1 @@
-kconsole.log('Happy developing ✨')
+console.log('Happy developing ✨')
