@@ -13,4 +13,4 @@ function bandNameGenerator(str) {
 
 }
 
-console.log(bandNameGenerator("The Tart"));
+console.log(bandNameGenerator("The Tart'));
